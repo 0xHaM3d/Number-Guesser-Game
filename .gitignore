@@ -1,0 +1,26 @@
+# Python bytecode (فایل‌های کامپایل شده پایتون)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (محیط‌های مجازی - بسیار مهم)
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs and Editors (تنظیمات ادیتورها)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS related files (فایل‌های سیستمی)
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging (فایل‌های بیلد پروژه)
+dist/
+build/
+*.egg-info/
